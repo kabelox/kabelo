@@ -1,7 +1,7 @@
 ---
 Layout:
-Title:"freecode camp"
-Date: 2020-03-11
+Title: "freecode camp"
+Date: 2020-03-09
 Catagories:
 ---
 #The feecode camp challenges

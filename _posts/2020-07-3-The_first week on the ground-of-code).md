@@ -1,4 +1,4 @@
---
+---
 Layout:
 Title:"First-week_on-the_week of theGroundOfCode"
 Date:2020-07-03

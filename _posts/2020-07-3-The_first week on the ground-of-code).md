@@ -1,7 +1,7 @@
 ---
 Layout:
-Title:"First-week_on-the_week of theGroundOfCode"
-Date:2020-07-03
+Title: "First-week_on-the_week of theGroundOfCode"
+Date: 2020-07-03
 Categories:
 ---
 # The Introduction
@@ -14,6 +14,7 @@ Monday when I came here something changed in me and I'm starting to take charge 
 
 This week I have been busy with javascript and is a bit of a pain when it comes to making my static pages interactive when assimilating HTML along with Css, I mean the books only taught me all the fundamentals and concepts in javascript and now I'm trying to merge up all the wisdom the books gave me, to understand Javascript to the fullest.No idea why I'm so productive maybe is because I'm looking forward to 
 learning my ultimate language Python or maybe this is the birth of an adult!
+
 
 ### Conclusion
 

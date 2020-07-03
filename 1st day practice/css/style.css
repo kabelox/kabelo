@@ -1,0 +1,199 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* head start */
+.wrapper{
+    display: flex;
+    background: greenyellow;
+}
+.logo img{
+    width: 40px;
+    padding: 5px;
+}
+.social img{
+    width: 30px;
+    padding: 3px;
+    margin-left: 8px;
+}
+ul li{
+    display:inline;
+    
+}
+ul li a{
+    text-decoration:none;
+    padding: 5px;
+    margin-left: 12px;
+    color: #222;
+}
+li a:hover{
+    background:orangered;
+    border-radius: 12px;
+    transition: all 0.5s;
+}
+.btn-submit{
+    border: 1px solid #111;
+    background: none;
+    cursor: pointer;
+    border-radius: 12px;
+    padding: 12px;
+    display: inline;
+}
+.btn-submit:hover{
+    color: #fff;
+    transition: all 1s;
+}
+.logo{
+    flex: 2;
+}
+.logo-text{
+    flex: 2;
+}
+ul{
+    flex: 2;
+}
+.social{
+    flex: 1;
+}
+.showcase{
+    background: red;
+    height: 97vh;
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.9)),url(../images/person-holding-white-and-blue-business-paper-936137.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* footer */
+footer{
+    background: linear-gradient(rgba(0,255,0,0.9),rgba(0,0,0,0.9));
+    padding:30px;
+    text-align: center;
+    font-size: 22px;
+    text-transform: capitalize;
+}
+
+#covid{
+    text-transform: uppercase;
+    color:#fff;
+    padding: 12px;
+}
+.logo-text h1{
+    text-transform: uppercase;
+    color: #333;
+    letter-spacing: 30px;
+    transition: all ;
+    animation-name: text;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-fill-mode: both;
+}
+
+@keyframes text{
+    0%{
+        color: red;
+    }
+   100%{
+        color: #fff;
+    }
+}
+
+.showcase {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+.showcase h2{
+    font-size: 60px;
+    text-transform: capitalize;
+}
+.showcase p{
+    text-transform: capitalize;
+    font-size: 18px;
+    color:#999;
+    margin-top: 17px;
+}
+/* showcase-about */
+.about-showcase{
+    border: 1px solid lime;
+    display: flex
+    ;
+    align-items: center;
+    justify-content: center;
+    padding: 38px;
+    margin: 33px;
+}
+.about1{
+    padding: 44px;
+    flex: 2;
+    background: #111;
+    border-radius: 5px;
+}
+.about1 h3{
+    color:limegreen;
+}
+.about2{
+    padding: 44px;
+    flex: 1;
+}
+.about3{
+    padding: 44px;
+    flex: 1;
+}
+.about-showcase h3{
+    font-size: 22px;
+    margin: 12px;
+    padding: 17px;
+}
+.about-showcase p{
+    color:#181818;
+}
+.about1 p{
+color: #fff;
+}
+.light{
+    border: 1px solid #999;
+    margin: 19px 320px;
+    padding: 55px;
+    background: #f1f1f1;
+    text-align: center;
+}
+.light h3{
+    text-transform: uppercase;
+    font-size: 19px;
+    padding: 22px;
+    color: maroon;
+    display: inline-block;
+    line-height: 22px;
+}
+/* the contact page */
+.contactshowcase{
+    text-align: center;
+    padding: 30px;
+
+}
+.contactshowcase h3{
+    padding: 22px;
+    margin: 12px;
+    text-transform: capitalize;
+}
+.contactshowcase p{
+    padding: 22px;
+    line-height: 26px;
+}
+ .contact3{
+    padding:33px;
+ }
+ .contact1{
+    padding:33px;
+    background: #333;
+    color:#fff; 
+}
+.contact2{
+    padding:33px;
+}

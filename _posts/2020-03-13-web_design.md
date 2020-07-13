@@ -1,7 +1,7 @@
 ---
 Layout:
-Title:"web_design"
-Date:2020-03-13
+Title: "web_design"
+Date: 2020-03-13
 Categories:
 ---
 # The Introduction

@@ -1,7 +1,7 @@
 ---
 Layout:
 Title:"Basic_Commands"
-Date:2020-03-12
+Date: 2020-03-12
 Categories:
 ---
 # Intro

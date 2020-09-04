@@ -28,4 +28,5 @@ Well an example of the dom could be something more like : <h1 id="demo">This is 
 onclick="document.getElementById('demo').innerHTML = 'Hello World!'">Click Me!
 </button>
 
+
 I mean well this is just a bit of a spoiler, but there is more to this wonderful thing than the justs about it that I have just presented you with above.

@@ -16,7 +16,7 @@ Only my CSS crushed when I reviewed my pages after submission and only a minor s
 
 The feeling of betrayal after seeing their funny faces rushed in me and that has taught me one of the greatest lessons that are more valuable than ever experienced before. I realized that people will never forget your failures and when you succeed or do some good in most of the time they never recall that famous old saying is so true.
 
-### Conclusion
+### Conclusion                      
 
 I have committed a vow and I will never back down on it and it goes like this...I will never fail again starting from today, is either I learn or succeed and trust me when I say it. The pain of disappointment that I felt and that almost everyone around me wants to see me fall as they celebrate my downfalls!
 Take it from me when I say never call yourself a looser you either learn to succeed. People never really understand the sacrifices that I make to keep up with coding and when I succeed I come to realize my hard work, but they want the glory and most are not willing to work as hard as I do, but when I fail a bit they laugh at me. I know that no one will care but my heart is broken. Let the games begin I'm ready to show my worth!

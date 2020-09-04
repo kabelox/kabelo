@@ -13,5 +13,5 @@ So after writing the test I went to the internet and searched for why I was alie
 
 And the only way to be good at something is by practicing more and building stuff with the basics learned at each time. I support that statement because now as we speak I'm a master of html5 and css3 as far as I know. And now that I can create a clone of any static site and I only reached this level since I was building more projects and practicing my soft skills.
 ### Conclusion
-
+                
 I truly believe that I can do the same with JavaScript only if I practice more and slow down so that things that I learn each time can be engraved in my mind and be able to build awesome things without looking at any references.I'm busy reading the book called Eloquent js my mentor offered. This is showing me that I can be worth more than just speeding up and being in a hurry to land a first job.I'm a big fan of things that will come to you only if you are worth more and able to solve any js problems in a blink!. So that is my goal to be worth more and make it to the top 5 list of the best programmers in SA. I can only reach this goal if I work more and harder at a slow dent of a pace!

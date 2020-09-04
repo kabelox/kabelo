@@ -11,6 +11,6 @@ Sometimes we tend to overlook opportunities we often get. I say this because bef
 
 The challenge was pretty difficult for me to complete and my cohorts were quite busy and I feared to interrupt them so I faced the challenge for a straight 1 hour troubleshooting till my head hurts and I tried until I passed the test, A tremendous thanks to the way the curriculum in Freecodecamp is set up because I can now say that I learned how to use regex as opposed to saying I can use regex expressions.
 ### Conclusion
-
+                    
 I suggest that whoever completes freecodecamp challenges should not just complete them for the sake of completing the tasks or else it will backfire as it did to me priorly. I'm looking forward to doing a javascript project in the future to test how far I have gotten. Never take anything for granted regardless of the size or difficulty, that's was my lesson for this week.
 
